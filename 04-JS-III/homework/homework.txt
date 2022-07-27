@@ -1,0 +1,3 @@
+Arrays:
+    Son llamados arreglos en español o matrices, son parecidos a las variables solo que con estos podemos
+    almacenar muchos mas valores, a diferencia de las variables, estos son contenedores de varios datos.

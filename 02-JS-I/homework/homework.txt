@@ -1,0 +1,22 @@
+Variables:
+    Se tratan de unos espacios que tenemos dentro de la computadora que usamos para guardar datos. 
+    Estos espacios son de la memoria de la computadora.
+
+Strings:
+    Las strings son cadenas de texto, pueden ser párrafos, conjuntos de caracteres, o incluso espacios
+    o cadenas vacías que se representan usualmente entre comillas dobles o sencillas.
+
+Funciones (argumentos, `return`):
+    Son un conjunto de acciones que realizará la computadora y que se guarda de la misma forma para que después
+    las podamos volver a usar, sin que tengamos que reescribir ese mismo conjunto de acciones.
+    A estas funciones les podemos ingresar datos dentro de los paréntesis, llamados argumentos o parámetros,
+    para que la funcion pueda usar esos datos dentro de los procesos que tiene escritos.
+    Y el `return` se refiere al valor que va a mostrar al final la funcion, puede ser el resultado de una operación
+    o un aviso, etc.
+
+Declaraciones `if`:
+    Son sentencias que nos ayudan a tomar decisiones dentro de nuestro programa e indicarle al lenguaje de programacion
+    lo que debe hacer dependiendo ciertas cosas.
+    
+Valores booleanos (`true`, `false`):
+    Son tipos de valores de verdad, si algo es correcto indica `true` si es incorrecto indica `false`.

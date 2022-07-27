@@ -1,0 +1,11 @@
+`for`
+    Se usa para crear un ciclo en el programa, un ciclo de acciones que se van a realizar repetidamente
+    hasta cierto punto el cual nosotros definiremos.
+
+`&&`, `||`, `!`
+    Cuando estamos haciendo un programa y tenemos que decidir entre varias condiciones usamos estos símbolos.
+    Con `&&` lo usamos para decidir si 2 o más condiciones se cumplen, es como si dijeramos si a es igual a 2
+    y además b es igual a 3 entonces se realiza una acción.
+    En el caso de `||` (or) lo usamos si alguna condicion se cumple, por ejemplo si a es igual a 5 ó x es igual a 10
+    entonces se realiza alguna acción.
+    Y el `!` es para decir lo contrario a una expresión, por ejemplo a != 3 quiere decir que a es distinto de 3.
