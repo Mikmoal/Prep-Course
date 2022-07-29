@@ -1,0 +1,20 @@
+* Objetos
+    Son como tal objetos que creamos dentro de nuestro programa y que pueden tener propiedades
+    las cuales nosotros las definimos.
+
+* Propiedades
+    Las propiedades son las caracteristicas que nuestro objeto tiene como color, tamaño,
+    edad, incluso una capacidad o un superpoder o métodos.
+
+* Métodos
+    Son las funciones que puede tener el objeto como brincar, hacer un cálculo, arrancar, etc.
+
+* Bucle `for…in`
+    Es el ciclo de los objetos, es como el `for` que conocemos pero este se aplica para los objetos.
+    En este loop se van recorriendo las propiedades del objeto. 
+
+* Notación de puntos vs notación de corchetes
+    Se usan para acceder a los valores que hemos asignado a las propiedades del objeto. En la notacion de puntos
+    se usa el punto despues del nombre del objeto y seguido la propiedad a la cual queremos acceder.
+    Y para la notación de corchetes debemos usar cadenas o numeros como en una matriz, ó variables que apunten
+    a cadenas o numeros.
